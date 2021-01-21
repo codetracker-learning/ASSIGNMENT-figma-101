@@ -23,3 +23,6 @@
   - You will be able to do tis by selecting the "Share" button in the top right hand of the screen.
     - Select Anyone with the Link can View
     - Copy Link and Paste into your README
+
+    // link to figma https://www.figma.com/file/8zrWOIM6FEtxITME2AeZ1O/Figma-101-Follow-Along
+    
